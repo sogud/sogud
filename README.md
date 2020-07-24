@@ -1,4 +1,4 @@
-![UyLP4P.png](https://s1.ax1x.com/2020/07/17/UyLP4P.png)
+# hello
 
 <!--
 **sogud/sogud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

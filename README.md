@@ -1,5 +1,5 @@
 # hello
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sogud&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sogud&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sogud&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--

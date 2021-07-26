@@ -1,7 +1,4 @@
-# hello
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=sogud&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sogud&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sogud/sogud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +13,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> sogud
+
+<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
+
+```javascript
+function sogud (langs=["Typescript", "JavaScript", "nodejs", "React"]){
+  const e = "Programmer Developer";
+  
+  const l = "ALGUMAS LINGUAGENS";
+  
+  return `I'm ${e},${l} ${langs.join("、")}.` 
+}
+```
+
+
+## **GitHub Estatísticas**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sogud&theme=radical&show_icons=true) <br>
+![sogud](https://github-readme-stats.vercel.app/api/top-langs/?username=sogud&hide=html&layout=compact&theme=radical)
+
+<!-- [twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/c
+[instagram]: https://www.instagram.com/
+ -->
+## **Rede Sociais!**
+
+<!-- • <a href="https://">Telegram</a><br>
+• <a href="https://">Twitter</a><br>
+• <a href="https://">Instagram</a><br> -->

@@ -19,29 +19,30 @@ Here are some ideas to get you started:
 ```javascript
 function sogud (langs=["Typescript", "JavaScript", "nodejs", "React"]){
   const e = "Programmer Developer";
-  
   const l = "ALGUMAS LINGUAGENS";
-  
   return `I'm ${e},${l} ${langs.join("、")}.` 
 }
 ```
 
-<!-- <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
+
 <img align="right" alt="" width="380px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-
+<!-- <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
 
 
 ## **GitHub Estatísticas**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sogud&theme=radical&show_icons=true) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sogud&theme=&show_icons=true) <br>
 <!-- ![sogud](https://github-readme-stats.vercel.app/api/top-langs/?username=sogud&hide=html&layout=compact&theme=radical) -->
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sogud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/c
 [instagram]: https://www.instagram.com/
  -->
-## **Rede Sociais!**
+<!-- ## **Rede Sociais!** -->
 
 <!-- • <a href="https://">Telegram</a><br>
 • <a href="https://">Twitter</a><br>

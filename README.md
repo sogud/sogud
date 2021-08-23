@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <img width="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> sogud
+## <img width="25" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> sogud
+
+<img align="right" alt="" width="380px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 
 ```javascript
@@ -25,7 +27,6 @@ function sogud (langs=["Typescript", "JavaScript", "nodejs", "React"]){
 ```
 
 
-<img align="right" alt="" width="380px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 <!-- <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
 

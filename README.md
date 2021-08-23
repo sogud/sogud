@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> sogud
 
-<!-- <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
-<img align="right" alt="" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ```javascript
 function sogud (langs=["Typescript", "JavaScript", "nodejs", "React"]){
@@ -27,6 +25,11 @@ function sogud (langs=["Typescript", "JavaScript", "nodejs", "React"]){
   return `I'm ${e},${l} ${langs.join("、")}.` 
 }
 ```
+
+<!-- <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
+<img align="right" alt="" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
+
 
 
 ## **GitHub Estatísticas**

@@ -22,7 +22,7 @@ function aboutMe (langs){
   const e = "Programmer Developer";
   const l = "ALGUMAS LINGUAGENS";
   return `I'm ${e},${l} ${langs.join("、")}.` 
-}(["Typescript", "JavaScript", "nodejs", "React"])
+}(["Typescript","vue.js", "nodejs", "React.js"])
 ```
 
 

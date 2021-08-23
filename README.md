@@ -13,17 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <img width="25" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> sogud
+## <img width="25" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> hi
 
-<img align="right" alt="" width="380px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-
+<img align="right" alt="" width="380px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> 
 
 ```javascript
-function sogud (langs=["Typescript", "JavaScript", "nodejs", "React"]){
+function sogud (langs){
   const e = "Programmer Developer";
   const l = "ALGUMAS LINGUAGENS";
   return `I'm ${e},${l} ${langs.join("、")}.` 
-}
+}(["Typescript", "JavaScript", "nodejs", "React"])
 ```
 
 

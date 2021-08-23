@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" alt="" width="280px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> 
 
 ```javascript
-function sogud (langs){
+function aboutMe (langs){
   const e = "Programmer Developer";
   const l = "ALGUMAS LINGUAGENS";
   return `I'm ${e},${l} ${langs.join("、")}.` 

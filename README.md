@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
 <img align="right" alt="" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
 ```javascript
 function sogud (langs=["Typescript", "JavaScript", "nodejs", "React"]){
   const e = "Programmer Developer";

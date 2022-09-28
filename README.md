@@ -35,7 +35,7 @@ console.log(function aboutMe (langs){
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sogud&theme=&show_icons=true) <br>
 <!-- ![sogud](https://github-readme-stats.vercel.app/api/top-langs/?username=sogud&hide=html&layout=compact&theme=radical) -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sogud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sogud&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- [twitter]: https://twitter.com/

@@ -1,3 +1,14 @@
+### <img width="25" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> hi there I'm sogud 👋
+
+I'm a web frontend engineer
+
+Welcome follow my github!
+
+Languages and Tools:
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width = "20" height = "20" alt="JavaScript" style='display:inline' /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width = "20" height = "20" alt="TypeScript" style='display:inline' /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width = "20" height = "20" alt="React" style='display:inline'  /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width = "20" height = "20" alt="Vue" style='display:inline'  /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width = "20" height = "20" alt="NodeJs" style='display:inline'  /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width = "20" height = "20" alt="Docker" style='display:inline'  /> 
+
+
 ![](https://komarev.com/ghpvc/?username=sogud)
 <!--
 **sogud/sogud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,21 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <img width="25" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> hi
-
-<img align="right" alt="" width="260px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> 
-
-```javascript
-console.log(function aboutMe (langs){
-  const e = "Programmer Developer";
-  const l = "ALGUMAS LINGUAGENS";
-  return `I'm ${e},${l}:${langs.join("、")}.` 
-}(["Typescript","vue.js", "nodejs", "React.js"]))
-```
-
-
-
-<!-- <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
 
 
 ## **GitHub Estatísticas**

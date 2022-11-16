@@ -1,4 +1,4 @@
-### <img width="25" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> hi there I'm sogud 👋
+###  hi there I'm sogud 👋
 
 I'm a web frontend engineer
 

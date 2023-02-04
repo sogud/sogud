@@ -1,4 +1,4 @@
-###  hi there I'm sogud 👋
+###  hi there 👋
 
 I'm a web frontend engineer
 
